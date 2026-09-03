@@ -1,4 +1,4 @@
 requests>=2.31.0
 python-dotenv>=1.0.0
-tls_requests>=0.1.0
+wrapper-tls-requests
 tqdm>=4.66.0
