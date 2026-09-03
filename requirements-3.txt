@@ -1,0 +1,8 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Зависимости самой библиотеки playerokapi (папка playerokapi/ лежит рядом с main.py
+# как часть этого репозитория, а не ставится через pip).
+tls_requests>=0.1.0
+tqdm>=4.66.0
+
